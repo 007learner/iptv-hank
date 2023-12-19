@@ -1,5 +1,7 @@
 # IPTV [![update](https://github.com/iptv-org/iptv/actions/workflows/update.yml/badge.svg)](https://github.com/iptv-org/iptv/actions/workflows/update.yml)
 
+only forcous JP,US,UK,CN
+
 Collection of publicly available IPTV (Internet Protocol television) channels from all over the world.
 
 ## Table of contents
